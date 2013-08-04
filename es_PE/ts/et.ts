@@ -5,7 +5,7 @@
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
-        <translation type="unfinished"></translation>
+        <translation type="Selec"></translation>
     </message>
 </context>
 <context>
